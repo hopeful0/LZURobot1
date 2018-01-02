@@ -20,4 +20,9 @@
 ![](/assets/幻灯片16.JPG)
 ![](/assets/幻灯片17.JPG)
 ![](/assets/幻灯片18.JPG)
-<center><iframe src="http://server.hopefulme.cn/video" frameborder="0"></center>
+<center>
+  <video controls="controls">
+    <source src="https://github.com/hopeful0/LZURobot1/blob/master/VID20171223161352.mkv?raw=true" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+</center>
