@@ -20,3 +20,5 @@
 ![](/assets/幻灯片16.JPG)
 ![](/assets/幻灯片17.JPG)
 ![](/assets/幻灯片18.JPG)
+<iframe src="http://hopefulme.cn" width="200" height="200"></iframe>
+<iframe height=498 width=510 src="http://player.youku.com/embed/XNjcyMDU4Njg0" frameborder=0 allowfullscreen></iframe>
