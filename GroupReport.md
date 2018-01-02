@@ -20,4 +20,4 @@
 ![](/assets/幻灯片16.JPG)
 ![](/assets/幻灯片17.JPG)
 ![](/assets/幻灯片18.JPG)
-<iframe src="http://hopefulme.cn" width="200" height="200">
+<center><iframe src="http://server.hopefulme.cn/video" frameborder="0"></center>
