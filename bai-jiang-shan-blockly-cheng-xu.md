@@ -2,7 +2,7 @@
 
 ---
 
-求两个数的最大值和最小值
+这次我写的程序是求两个数的最大公约数与最小公倍数。因为小学时总用辗转相除法或短除法求两个数的最大公约数与最小公倍数，觉得非常麻烦，因此我想写个程序，直接把两个数字输入之后，立刻得到它们的最大公约数与最小公倍数，具体程序设计如下：
 
 ![](/assets/2.JPG)
 
@@ -26,35 +26,35 @@
 
 由此可证明这个程序是完全无错的。
 
-
-
 XML代码：
 
-&lt;xml xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;xml xmlns="[http://www.w3.org/1999/xhtml"&gt](http://www.w3.org/1999/xhtml"&gt);
 
-  &lt;variables&gt;
+&lt;variables&gt;
 
-    &lt;variable type="" id=",\[QWdnt0HD+;EE\|\_t?Zm"&gt;x&lt;/variable&gt;
+```
+&lt;variable type="" id=",\[QWdnt0HD+;EE\|\_t?Zm"&gt;x&lt;/variable&gt;
 
-    &lt;variable type="" id="\(,LYi:yr\*$QobOq%!HT}"&gt;{textVariable}&lt;/variable&gt;
+&lt;variable type="" id="\(,LYi:yr\*$QobOq%!HT}"&gt;{textVariable}&lt;/variable&gt;
 
-    &lt;variable type="" id="\)\#@v.tv,\|n5{;L\)M{.p:"&gt;m&lt;/variable&gt;
+&lt;variable type="" id="\)\#@v.tv,\|n5{;L\)M{.p:"&gt;m&lt;/variable&gt;
 
-    &lt;variable type="" id="K\*7d\#n8D\(CU/NHbSJ\#b,"&gt;n&lt;/variable&gt;
+&lt;variable type="" id="K\*7d\#n8D\(CU/NHbSJ\#b,"&gt;n&lt;/variable&gt;
 
-    &lt;variable type="" id="-T/z.VZy3fY@w{zUH=81"&gt;c&lt;/variable&gt;
+&lt;variable type="" id="-T/z.VZy3fY@w{zUH=81"&gt;c&lt;/variable&gt;
 
-    &lt;variable type="" id=".\(6\[E$HkU\)\#\[X\|!2@@cC"&gt;q&lt;/variable&gt;
+&lt;variable type="" id=".\(6\[E$HkU\)\#\[X\|!2@@cC"&gt;q&lt;/variable&gt;
 
-    &lt;variable type="" id="@2hTW%\_l\#R+/Af$M=^6%"&gt;temp&lt;/variable&gt;
+&lt;variable type="" id="@2hTW%\_l\#R+/Af$M=^6%"&gt;temp&lt;/variable&gt;
 
-    &lt;variable type="" id="Oaza.YT=q\_iO\]e:Qb/;1"&gt;r&lt;/variable&gt;
+&lt;variable type="" id="Oaza.YT=q\_iO\]e:Qb/;1"&gt;r&lt;/variable&gt;
 
-    &lt;variable type="" id="wrnDoEoDPvE=\_u3cQq\)l"&gt;p&lt;/variable&gt;
+&lt;variable type="" id="wrnDoEoDPvE=\_u3cQq\)l"&gt;p&lt;/variable&gt;
+```
 
-  &lt;/variables&gt;
+&lt;/variables&gt;
 
-  &lt;block type="variables\_set" id="~fQ@yINikVBCm95d\)tT@" x="-488" y="-412"&gt;
+&lt;block type="variables\_set" id="~fQ@yINikVBCm95d\)tT@" x="-488" y="-412"&gt;
 
     &lt;field name="VAR" id="K\*7d\#n8D\(CU/NHbSJ\#b," variabletype=""&gt;n&lt;/field&gt;
 
@@ -540,7 +540,7 @@ XML代码：
 
     &lt;/next&gt;
 
-  &lt;/block&gt;
+&lt;/block&gt;
 
 &lt;/xml&gt;
 
