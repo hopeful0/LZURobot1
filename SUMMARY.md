@@ -11,3 +11,5 @@
 * [柏江山blockly程序](bai-jiang-shan-blockly-cheng-xu.md)
 * [王辰个人报告](Personal Reports/王辰.md)
 * [王辰案例](Blockly Programs/王辰.md)
+* [刘旭   案例](liu-xu-an-li.md)
+
